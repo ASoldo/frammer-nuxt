@@ -80,10 +80,10 @@ npm run release
 <!-- Badges -->
 
 [npm-version-src]: https://img.shields.io/npm/v/frammer-nuxt/latest.svg?style=flat&colorA=18181B&colorB=28CF8D
-
-[npm-version-href]: <https://npmjs.com/package/frammer-nuxt[npm-downloads-src]>: <https://img.shields.io/npm/dm/frammer-nuxt.svg?style=flat&colorA=18181B&colorB=28CF8D>
-[npm-downloads-href]: <https://npmjs.com/package/frammer-nuxt>
-[license-src]: <https://img.shields.io/npm/l/frammer-nuxt.svg?style=flat&colorA=18181B&colorB=28CF8D>
-[license-href]: <https://npmjs.com/package/frammer-nuxt>
-[nuxt-src]: <https://img.shields.io/badge/Nuxt-18181B?logo=nuxt.js>
-[nuxt-href]: <https://nuxt.com>
+[npm-version-href]: https://npmjs.com/package/frammer-nuxt
+[npm-downloads-src]: https://img.shields.io/npm/dm/frammer-nuxt.svg?style=flat&colorA=18181B&colorB=28CF8D
+[npm-downloads-href]: https://npmjs.com/package/frammer-nuxt
+[license-src]: https://img.shields.io/npm/l/frammer-nuxt.svg?style=flat&colorA=18181B&colorB=28CF8D
+[license-href]: https://npmjs.com/package/frammer-nuxt
+[nuxt-src]: https://img.shields.io/badge/Nuxt-18181B?logo=nuxt.js
+[nuxt-href]: https://nuxt.com
