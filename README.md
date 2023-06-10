@@ -3,11 +3,11 @@ Get your module up and running quickly.
 
 Find and replace all on all files (CMD+SHIFT+F):
 - Name: My Module
-- Package name: my-module
+- Package name: frammerNuxt
 - Description: My new Nuxt module
 -->
 
-# My Module
+# Frammer-Nuxt
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
@@ -23,13 +23,12 @@ My new Nuxt module integrated with the [Nuxt Devtools](https://github.com/nuxt/d
 
 <!-- Highlight some of the features your module provide here -->
 
-- ⛰ &nbsp;Foo
-- 🚠 &nbsp;Bar
-- 🌲 &nbsp;Baz
+- ⛰ &nbsp;Insert any web app into iframe
+- 🌲 &nbsp;That's it
 
 ## Quick Setup
 
-1. Add `my-module` dependency to your project
+1. Add `frammerNuxt` dependency to your project
 
 ```bash
 # Using pnpm
@@ -39,7 +38,7 @@ pnpm add -D frammer-nuxt
 npm install --save-dev frammer-nuxt
 ```
 
-2. Add `my-module` to the `modules` section of `nuxt.config.ts`
+2. Add `frammerNuxt` to the `modules` section of `nuxt.config.ts`
 
 ```js
 export default defineNuxtConfig({
@@ -80,11 +79,11 @@ npm run release
 
 <!-- Badges -->
 
-[npm-version-src]: https://img.shields.io/npm/v/my-module/latest.svg?style=flat&colorA=18181B&colorB=28CF8D
-[npm-version-href]: https://npmjs.com/package/my-module
-[npm-downloads-src]: https://img.shields.io/npm/dm/my-module.svg?style=flat&colorA=18181B&colorB=28CF8D
-[npm-downloads-href]: https://npmjs.com/package/my-module
-[license-src]: https://img.shields.io/npm/l/my-module.svg?style=flat&colorA=18181B&colorB=28CF8D
-[license-href]: https://npmjs.com/package/my-module
-[nuxt-src]: https://img.shields.io/badge/Nuxt-18181B?logo=nuxt.js
-[nuxt-href]: https://nuxt.com
+[npm-version-src]: https://img.shields.io/npm/v/frammer-nuxt/latest.svg?style=flat&colorA=18181B&colorB=28CF8D
+
+[npm-version-href]: <https://npmjs.com/package/frammer-nuxt[npm-downloads-src]>: <https://img.shields.io/npm/dm/frammer-nuxt.svg?style=flat&colorA=18181B&colorB=28CF8D>
+[npm-downloads-href]: <https://npmjs.com/package/frammer-nuxt>
+[license-src]: <https://img.shields.io/npm/l/frammer-nuxt.svg?style=flat&colorA=18181B&colorB=28CF8D>
+[license-href]: <https://npmjs.com/package/frammer-nuxt>
+[nuxt-src]: <https://img.shields.io/badge/Nuxt-18181B?logo=nuxt.js>
+[nuxt-href]: <https://nuxt.com>
