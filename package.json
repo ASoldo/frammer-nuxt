@@ -1,6 +1,6 @@
 {
   "name": "frammer-nuxt",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Frammer-Nuxt is used to integrate web application into nuxt dev tools",
   "license": "MIT",
   "type": "module",
