@@ -1,12 +1,16 @@
 {
   "name": "frammer-nuxt",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Frammer-Nuxt is used to integrate web application into nuxt dev tools",
   "license": "MIT",
   "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/ASoldo/frammer-nuxt"
+  },
+  "author": {
+    "name": "Andrej Soldo <soldo.andrej@gmail.com>",
+    "url": "https://github.com/ASoldo"
   },
   "exports": {
     ".": {
