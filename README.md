@@ -2,9 +2,9 @@
 Get your module up and running quickly.
 
 Find and replace all on all files (CMD+SHIFT+F):
-- Name: My Module
+- Name: Frammer-Nuxt
 - Package name: frammerNuxt
-- Description: My new Nuxt module
+- Description:  Frammer-Nuxt is used to integrate any web app in Nuxt Devtools.
 -->
 
 # Frammer-Nuxt
@@ -14,7 +14,7 @@ Find and replace all on all files (CMD+SHIFT+F):
 [![License][license-src]][license-href]
 [![Nuxt][nuxt-src]][nuxt-href]
 
-My new Nuxt module integrated with the [Nuxt Devtools](https://github.com/nuxt/devtools).
+Frammer-Nuxt integrated with the [Nuxt Devtools](https://github.com/nuxt/devtools).
 
 - [✨ &nbsp;Release Notes](/CHANGELOG.md)
 <!-- - [📖 &nbsp;Documentation](https://example.com) -->
@@ -49,7 +49,7 @@ export default defineNuxtConfig({
 });
 ```
 
-That's it! You can now use My Module in your Nuxt app ✨
+That's it! You can now use Frammer-Nuxt module in your Nuxt app ✨
 
 ## Development
 
